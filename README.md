@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aryan Kashyap</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?
 
-- 🔭 **I’m currently learning and  working on ai-powered rag applications**
+- 🔭 **I’m currently learning and  working on ai-powered rag applications**.
 
-- 📫 **All of my projects are available at **https://github.com/aryukas**
+- 📫 **All of my projects are available at **https://github.com/aryukas****
 
 - 🌱** I’m Understanding **Natural Language Processing (NLP) Systems that understand and process human language, translation, sentiment analysis, chatbots.**
 
