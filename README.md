@@ -1,22 +1,36 @@
 <h1 align="center">Hi 👋, I'm Aryan Kashyap</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?
+<h3 align="center">Engineer | Full Stack Developer | AI & RAG Enthusiast</h3>
 
-- 🔭 **I’m currently learning and  working on ai-powered rag applications**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aryukas&label=Profile%20views&color=0e75b6&style=flat" alt="aryukas" />
+</p>
 
-- 📫 **All of my projects are available at **https://github.com/aryukas****
+---
 
-- 🌱** I’m Understanding **Natural Language Processing (NLP) Systems that understand and process human language, translation, sentiment analysis, chatbots.**
+### 🚀 About Me
 
-- 🤝 **I’m looking for help with **to collaborate on Open Source Projects to collaborate.**
-
-- 👨‍💻 LinkdIn [https://www.linkedin.com/in/aryankashyap77/](https://www.linkedin.com/in/aryankashyap77/)
-
+- 🔭 I’m currently **learning and working on AI-powered RAG applications**
+- 🌱 I’m exploring **Natural Language Processing (NLP)** —  
+  systems for language understanding, translation, sentiment analysis, and chatbots
+- 🤝 I’m looking to **collaborate on Open Source projects**
 - 💬 Ask me about **Full Stack Development**
+- ⚡ Fun fact: **I wear my heart on my sleeve**
 
-- 📫 **How to reach me **aryukashyap55@gmail.com**
+---
 
-- ⚡** Fun fact about me **I wear my heart on my sleeve**
+### 👨‍💻 Projects & Work
+- 📂 All of my projects are available here:  
+  👉 **[GitHub – aryukas](https://github.com/aryukas)**
 
+---
+
+### 🌐 Connect With Me
+- 💼 LinkedIn:  
+  👉 **[Aryan Kashyap](https://www.linkedin.com/in/aryankashyap77/)**
+- 📧 Email:  
+  👉 **aryukashyap55@gmail.com**
+
+-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aryankashyap77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryankashyap77/" height="30" width="40" /></a>
