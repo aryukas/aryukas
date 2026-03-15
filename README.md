@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Kashyap</h1>
 <h3 align="center">Engineer | Full Stack Developer | AI & RAG Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryukas&label=Profile%20views&color=0e75b6&style=flat" alt="aryukas" />
-</p>
-
 ---
 
 ### 🚀 About Me
